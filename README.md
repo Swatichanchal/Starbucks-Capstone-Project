@@ -34,5 +34,11 @@ This repo contains 4 files.
     - 3. transcript.json : kaggle (https://www.kaggle.com/blacktile/starbucks-app-customer-reward-program-data) ,  I can't upload this file here because it's size exceed the 
     git-hub condition (25mb).
     
+**Code for this project is present** [here](https://github.com/Swatichanchal/Starbucks-Capstone-Project/blob/master/Starbucks_Capstone_notebook.ipynb)
+     - https://github.com/Swatichanchal/Starbucks-Capstone-Project/blob/master/Starbucks_Capstone_notebook.ipynb
+**Blog Post Report for this project present** [here](https://github.com/Swatichanchal/Starbucks-Capstone-Project/blob/master/Capstone_Project_Report.pdf)
+     - https://github.com/Swatichanchal/Starbucks-Capstone-Project/blob/master/Capstone_Project_Report.pdf
+
+
 ## Licensing, Authors, Acknowledgements .
 Data for coding project was provided by Udacity.
