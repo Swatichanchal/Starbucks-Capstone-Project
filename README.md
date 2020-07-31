@@ -31,7 +31,7 @@ This repo contains 4 files.
 -   `Data` :
     - 1. Profile.json
     - 2. Portfolio.json
-    - 3. transcript.json : kaggle (https://www.kaggle.com/blacktile/starbucks-app-customer-reward-program-data) ,  I can't upload this file here because it's size excced the 
+    - 3. transcript.json : kaggle (https://www.kaggle.com/blacktile/starbucks-app-customer-reward-program-data) ,  I can't upload this file here because it's size exceed the 
     git-hub condition (25mb).
     
 ## Licensing, Authors, Acknowledgements .
